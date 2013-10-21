@@ -1,5 +1,7 @@
+#c est  quoi cette bordell demerde quine change de rien il faut aller de loin 
 import os
 import sys
+
 
 from distutils.core import setup
 from distutils.sysconfig import get_python_lib
